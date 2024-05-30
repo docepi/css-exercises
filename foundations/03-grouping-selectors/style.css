@@ -1,0 +1,14 @@
+.font {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif times;
+}
+
+.doit {
+    background-color: black;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.dont {
+    background-color: (255, 255, 224);
+}
